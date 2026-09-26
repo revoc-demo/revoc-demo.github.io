@@ -1,0 +1,472 @@
+{
+  "libritts": [
+    {
+      "id": "l01",
+      "subtitle": "dev-clean",
+      "text": "We found the chickens asleep; perhaps they thought night had come to stay.",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/libritts/l01/reference.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "Vocos · 1 step",
+          "src": "audio/libritts/l01/vocos.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "BigVGAN-base · 1 step",
+          "src": "audio/libritts/l01/bigvgan_base.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "BridgeVoC · 4 steps",
+          "src": "audio/libritts/l01/bridgevoc4.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC-Small · 1 step",
+          "src": "audio/libritts/l01/revoc_small1.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC-Base · 1 step",
+          "src": "audio/libritts/l01/revoc_base1.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC-Base · 2 steps",
+          "src": "audio/libritts/l01/revoc_base2.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC-Base · 4 steps",
+          "src": "audio/libritts/l01/revoc_base4.wav",
+          "duration": 4.1
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "subtitle": "dev-clean",
+      "text": "Fitzgerald was still trying to find out how the germ had been transmitted.",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/libritts/l02/reference.wav",
+          "duration": 4.12
+        },
+        {
+          "label": "Vocos · 1 step",
+          "src": "audio/libritts/l02/vocos.wav",
+          "duration": 4.12
+        },
+        {
+          "label": "BigVGAN-base · 1 step",
+          "src": "audio/libritts/l02/bigvgan_base.wav",
+          "duration": 4.12
+        },
+        {
+          "label": "BridgeVoC · 4 steps",
+          "src": "audio/libritts/l02/bridgevoc4.wav",
+          "duration": 4.12
+        },
+        {
+          "label": "ReVoC-Small · 1 step",
+          "src": "audio/libritts/l02/revoc_small1.wav",
+          "duration": 4.12
+        },
+        {
+          "label": "ReVoC-Base · 1 step",
+          "src": "audio/libritts/l02/revoc_base1.wav",
+          "duration": 4.12
+        },
+        {
+          "label": "ReVoC-Base · 2 steps",
+          "src": "audio/libritts/l02/revoc_base2.wav",
+          "duration": 4.12
+        },
+        {
+          "label": "ReVoC-Base · 4 steps",
+          "src": "audio/libritts/l02/revoc_base4.wav",
+          "duration": 4.12
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "subtitle": "dev-other",
+      "text": "But, as the rain gave not the least sign of cessation, he observed: 'I think we shall have to go back.'",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/libritts/l03/reference.wav",
+          "duration": 5.95
+        },
+        {
+          "label": "Vocos · 1 step",
+          "src": "audio/libritts/l03/vocos.wav",
+          "duration": 5.95
+        },
+        {
+          "label": "BigVGAN-base · 1 step",
+          "src": "audio/libritts/l03/bigvgan_base.wav",
+          "duration": 5.95
+        },
+        {
+          "label": "BridgeVoC · 4 steps",
+          "src": "audio/libritts/l03/bridgevoc4.wav",
+          "duration": 5.95
+        },
+        {
+          "label": "ReVoC-Small · 1 step",
+          "src": "audio/libritts/l03/revoc_small1.wav",
+          "duration": 5.95
+        },
+        {
+          "label": "ReVoC-Base · 1 step",
+          "src": "audio/libritts/l03/revoc_base1.wav",
+          "duration": 5.95
+        },
+        {
+          "label": "ReVoC-Base · 2 steps",
+          "src": "audio/libritts/l03/revoc_base2.wav",
+          "duration": 5.95
+        },
+        {
+          "label": "ReVoC-Base · 4 steps",
+          "src": "audio/libritts/l03/revoc_base4.wav",
+          "duration": 5.95
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "subtitle": "dev-other",
+      "text": "Not till midwinter was the count at last handed a letter addressed in his son's handwriting.",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/libritts/l04/reference.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "Vocos · 1 step",
+          "src": "audio/libritts/l04/vocos.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "BigVGAN-base · 1 step",
+          "src": "audio/libritts/l04/bigvgan_base.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "BridgeVoC · 4 steps",
+          "src": "audio/libritts/l04/bridgevoc4.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC-Small · 1 step",
+          "src": "audio/libritts/l04/revoc_small1.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC-Base · 1 step",
+          "src": "audio/libritts/l04/revoc_base1.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC-Base · 2 steps",
+          "src": "audio/libritts/l04/revoc_base2.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC-Base · 4 steps",
+          "src": "audio/libritts/l04/revoc_base4.wav",
+          "duration": 5.66
+        }
+      ]
+    }
+  ],
+  "ears": [
+    {
+      "id": "e01",
+      "title": "Rainbow passage",
+      "subtitle": "Read speech",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/ears/e01/reference.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "Vocos · 1 step",
+          "src": "audio/ears/e01/vocos.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "BigVGAN-base · 1 step",
+          "src": "audio/ears/e01/bigvgan_base.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "BridgeVoC · 4 steps",
+          "src": "audio/ears/e01/bridgevoc4.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "ReVoC-Base · 4 steps",
+          "src": "audio/ears/e01/revoc_base4.wav",
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "id": "e02",
+      "title": "Rainbow passage",
+      "subtitle": "Read speech",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/ears/e02/reference.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "Vocos · 1 step",
+          "src": "audio/ears/e02/vocos.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "BigVGAN-base · 1 step",
+          "src": "audio/ears/e02/bigvgan_base.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "BridgeVoC · 4 steps",
+          "src": "audio/ears/e02/bridgevoc4.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "ReVoC-Base · 4 steps",
+          "src": "audio/ears/e02/revoc_base4.wav",
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "id": "e03",
+      "title": "Sentence reading",
+      "subtitle": "Read speech",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/ears/e03/reference.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "Vocos · 1 step",
+          "src": "audio/ears/e03/vocos.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "BigVGAN-base · 1 step",
+          "src": "audio/ears/e03/bigvgan_base.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "BridgeVoC · 4 steps",
+          "src": "audio/ears/e03/bridgevoc4.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "ReVoC-Base · 4 steps",
+          "src": "audio/ears/e03/revoc_base4.wav",
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "id": "e04",
+      "title": "Sentence reading",
+      "subtitle": "Read speech",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/ears/e04/reference.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "Vocos · 1 step",
+          "src": "audio/ears/e04/vocos.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "BigVGAN-base · 1 step",
+          "src": "audio/ears/e04/bigvgan_base.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "BridgeVoC · 4 steps",
+          "src": "audio/ears/e04/bridgevoc4.wav",
+          "duration": 10.0
+        },
+        {
+          "label": "ReVoC-Base · 4 steps",
+          "src": "audio/ears/e04/revoc_base4.wav",
+          "duration": 10.0
+        }
+      ]
+    }
+  ],
+  "codec": [
+    {
+      "id": "c31",
+      "subtitle": "3 kbps · 4 codebooks · dev-clean",
+      "text": "We found the chickens asleep; perhaps they thought night had come to stay.",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/codec/c31/reference.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "Codec decoded",
+          "src": "audio/codec/c31/decoded.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "Vocos restoration",
+          "src": "audio/codec/c31/vocos.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC · 1 step",
+          "src": "audio/codec/c31/revoc1.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC · 2 steps",
+          "src": "audio/codec/c31/revoc2.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC · 4 steps",
+          "src": "audio/codec/c31/revoc4.wav",
+          "duration": 4.1
+        }
+      ]
+    },
+    {
+      "id": "c32",
+      "subtitle": "3 kbps · 4 codebooks · dev-other",
+      "text": "Not till midwinter was the count at last handed a letter addressed in his son's handwriting.",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/codec/c32/reference.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "Codec decoded",
+          "src": "audio/codec/c32/decoded.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "Vocos restoration",
+          "src": "audio/codec/c32/vocos.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC · 1 step",
+          "src": "audio/codec/c32/revoc1.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC · 2 steps",
+          "src": "audio/codec/c32/revoc2.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC · 4 steps",
+          "src": "audio/codec/c32/revoc4.wav",
+          "duration": 5.66
+        }
+      ]
+    },
+    {
+      "id": "c61",
+      "subtitle": "6 kbps · 8 codebooks · dev-clean",
+      "text": "We found the chickens asleep; perhaps they thought night had come to stay.",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/codec/c61/reference.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "Codec decoded",
+          "src": "audio/codec/c61/decoded.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "Vocos restoration",
+          "src": "audio/codec/c61/vocos.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC · 1 step",
+          "src": "audio/codec/c61/revoc1.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC · 2 steps",
+          "src": "audio/codec/c61/revoc2.wav",
+          "duration": 4.1
+        },
+        {
+          "label": "ReVoC · 4 steps",
+          "src": "audio/codec/c61/revoc4.wav",
+          "duration": 4.1
+        }
+      ]
+    },
+    {
+      "id": "c62",
+      "subtitle": "6 kbps · 8 codebooks · dev-other",
+      "text": "Not till midwinter was the count at last handed a letter addressed in his son's handwriting.",
+      "audio": [
+        {
+          "label": "Reference",
+          "src": "audio/codec/c62/reference.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "Codec decoded",
+          "src": "audio/codec/c62/decoded.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "Vocos restoration",
+          "src": "audio/codec/c62/vocos.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC · 1 step",
+          "src": "audio/codec/c62/revoc1.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC · 2 steps",
+          "src": "audio/codec/c62/revoc2.wav",
+          "duration": 5.66
+        },
+        {
+          "label": "ReVoC · 4 steps",
+          "src": "audio/codec/c62/revoc4.wav",
+          "duration": 5.66
+        }
+      ]
+    }
+  ]
+}
